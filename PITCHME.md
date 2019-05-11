@@ -2,5 +2,5 @@
 @title[Introduction]
 
 @snap[north headline span-80]
-@css[heading](The Kitchen Sink)
+@css[heading](ForumPA 2019)
 @snapend
