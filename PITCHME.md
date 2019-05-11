@@ -3,6 +3,7 @@
 
 ## FORUM PA 2019  
 @css[tip](Dal catalogo del riuso alla community developers italia: l'esperienza del CNR)
+@css[tip](2019-05-16)
 
 @snap[south byline]
 marco.spasiano@color[#e49436](@cnr.it)
