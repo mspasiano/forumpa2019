@@ -2,5 +2,5 @@
 @title[Introduction]
 
 @snap[north headline span-80]
-@css[heading](ForumPA 2019)
+@css[heading](FORUM PA 2019)
 @snapend
