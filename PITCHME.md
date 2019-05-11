@@ -1,10 +1,8 @@
----?image=assets/img/kitchen-sink.jpg
+---?color=blue
 @title[Introduction]
 
-@snap[north headline span-80]
-@css[heading](FORUM PA 2019)
-@snapend
+## FORUM PA 2019
+@css[tip](Dal catalogo del riuso alla community developers italia: l'esperienza del CNR)
 
-@snap[north headline span-80]
-@css[heading](Dal catalogo del riuso alla community developers italia: l'esperienza del CNR)
-@snapend
+@fa[arrow-down]
+
