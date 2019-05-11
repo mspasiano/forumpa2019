@@ -8,5 +8,6 @@
 @snap[south byline]
 marco.spasiano@color[#e49436](@cnr.it)
 @snapend
-
+---
+---?image=assets/img/devops-process.png
 
