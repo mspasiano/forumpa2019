@@ -1,8 +1,11 @@
----?color=blue
+---?color=#0058a9
 @title[Introduction]
 
-## FORUM PA 2019
+## FORUM PA 2019  
 @css[tip](Dal catalogo del riuso alla community developers italia: l'esperienza del CNR)
 
-@fa[arrow-down]
+@snap[south byline]
+marco.spasiano@color[#e49436](@cnr.it)
+@snapend
+
 
