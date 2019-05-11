@@ -10,8 +10,8 @@ marco.spasiano@color[#e49436](@cnr.it)
 @snapend
 ---?color=#0058a9
 @title[DevOps]
-@snap[north span-80]
+@snap[north span-50]
 ![](assets/img/devops-process.png)
 @snapend
-<br>
+<br><br>
 In informatica **DevOps** (dalla contrazione inglese di development, "sviluppo", e operations, qui simile a "messa in produzione" o "deployment") è un metodo di sviluppo del software che punta alla comunicazione, collaborazione e integrazione tra sviluppatori e addetti alle operations della information technology (IT).
