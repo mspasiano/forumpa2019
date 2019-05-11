@@ -10,7 +10,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 @snapend
 ---?color=#0058a9
 @title[DevOps]
-@snap[north span-50]
+@snap[north span-40]
 ![](assets/img/devops-process.png)
 @snapend
 <br><br>
