@@ -43,7 +43,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 - Type defines the shape of response data that can be returned
 @ulend
 
-+++?color=#0058a9?image=assets/img/sigla-architettura-aws.png
++++?image=assets/img/sigla-architettura-aws.png
 
 ---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
