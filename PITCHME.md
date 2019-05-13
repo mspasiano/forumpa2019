@@ -45,6 +45,17 @@ marco.spasiano@color[#e49436](@cnr.it)
 ![](assets/img/sigla-iss.png)
 @snapend
 
+@snap[west span-25]
+**Consiglio Nazionale delle Ricerche**
+@snapend
+
+@snap[span-25]
+**Ispettorato per la sicurezza nucleare e la radioprotezione**
+@snapend
+
+@snap[east span-25]
+**Istituto Superiore di Sanità**
+@snapend
 
 ---?color=#0058a9
 @title[DevOps]
