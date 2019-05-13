@@ -33,9 +33,9 @@ marco.spasiano@color[#e49436](@cnr.it)
 ---?color=#0058a9
 @title[Community developers italia - SIGLA]
 ### @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
-Sistema contabile in uso al *CNR*, all'*ISIN*  e in fase di estensione per un riuso all'*ISS*, tra i vari mdouli che compongono
+Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*)  e in fase di estensione per un riuso all'@color[#e49436](*ISS*), tra i vari mdouli che compongono
 il sistema .....  
-@ul[](false)
+@ul[]
 - **Integrazione SIOPE+**
 - **Integrazione SDI**
 @ulend
