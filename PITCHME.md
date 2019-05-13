@@ -14,20 +14,21 @@ marco.spasiano@color[#e49436](@cnr.it)
 ## @color[#e49436](Catalogo del Riuso)
 <br>
 @ul
-- **SIGLA**	@fa[arrow-right] *2005*
-- **Gestione Accessi** @fa[arrow-right] *2008*
-- **SIPER** @fa[arrow-right] *2008*
-- **Online Interactive heLpdesk** @fa[arrow-right] *2008*
+- **Sistema Informativo per la Gestione delle Linee di Attività - SIGLA**	@fa[arrow-right] *2005*
+- **Gestione Accessi - GAs** @fa[arrow-right] *2008*
+- **Servizi In line per il PERsonale - SIPER** @fa[arrow-right] *2008*
+- **Online Interactive heLpdesk - OIL** @fa[arrow-right] *2008*
 @ulend
 
 ---?color=#0058a9
 @title[Community developers italia]
 ## @color[#e49436](Community developers italia)
+Nel corso di quest'anno entreranno a far parte della community
 <br>
 @ul
-- **SIGLA**	@fa[arrow-right] *2019*
-- **Online Interactive heLpdesk** @fa[arrow-right] *2019*
-- **Selezioni on-line** @fa[arrow-right] *2019*
+- **Sistema Informativo per la Gestione delle Linee di Attività - SIGLA**
+- **Online Interactive heLpdesk - OIL**
+- **Selezioni on-line**
 @ulend
 
 ---?color=#0058a9
@@ -46,10 +47,7 @@ Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*) 
 ---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
 ## @color[#e49436](Selezioni on-line)
-
----?color=#0058a9
-@title[Community developers italia - Elenco OIV]
-## @color[#e49436](Elenco OIV)
+Sistema di presentazione delle candidature online per il reclutamento del personale dipendente e degli altri rapporti di lavoro e formazione del Consiglio Nazionale delle Ricerche.
 
 ---?color=#0058a9
 @title[DevOps]
