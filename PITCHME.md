@@ -17,7 +17,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **SIGLA**	@fa[arrow-right] *2005*
 - **Gestione Accessi** @fa[arrow-right] *2008*
 - **SIPER** @fa[arrow-right] *2008*
-- **Online interactive helpDesk** @fa[arrow-right] *2008*
+- **Online Interactive helpDesk** @fa[arrow-right] *2008*
 @ulend
 
 ---?color=#0058a9
