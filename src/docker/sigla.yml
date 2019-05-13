@@ -1,0 +1,73 @@
+version: '3'
+
+services:
+
+  siglaswarmisin:
+    image: docker.si.cnr.it/dev/sigla-swarm:latest
+    command: java -Duser.country=IT -Duser.language=it -Dfile.encoding=UTF8 -Dswarm.port.offset=1 
+        -Dswarm.project.stage=development-isin 
+        -Xmx512m 
+        -Xss512k 
+        -Dsign.documents.from.repository=false 
+        -Dorg.apache.chemistry.opencmis.binding.spi.type=browser 
+        -Duser.admin.username=admin 
+        -Duser.admin.password=admin 
+        -Dstore.path.comunicazioni.dal="/Comunicazioni da ISIN" 
+        -Dstore.path.comunicazioni.al="/Comunicazioni a ISIN" 
+        -DarubaRemoteSignService.url=http://arss3.cedrc.cnr.it:8080/ArubaSignService/ArubaSignService?WSDL 
+        -Dsign.document.png.url=https://gestdoc.cnr.it/alfresco/d/a/workspace/SpacesStore/f4eb7400-a651-4427-8c11-16e47a14a8fd/logo-firma.png 
+        -Djava.security.egd=file:/dev/./urandom -Xdebug -agentlib:jdwp=transport=dt_socket,address=8787,server=y,suspend=n -jar /opt/sigla-swarm.jar 
+    environment:
+    - 'LANG=it_IT.UTF-8'
+    - 'LANGUAGE=it_IT:it'
+    - 'LC_ALL=it_IT.UTF-8'
+    network_mode: bridge
+    tmpfs:
+    - /tmp/
+
+  siglangisin:
+    image: docker.si.cnr.it/dev/sigla-ng:latest
+    read_only: true
+    environment:
+    - 'SPRING_DATASOURCE_URL=jdbc:oracle:thin:@as4dock.si.cnr.it:1521:xe'
+    - 'SPRING_DATASOURCE_PASSWORD=****'
+    - 'INSTITUTE_ACRONYM=ISIN'
+    - 'LANG=it_IT.UTF-8'
+    - 'LANGUAGE=it_IT:it'
+    - 'LC_ALL=it_IT.UTF-8'
+    network_mode: bridge
+    tmpfs:
+    - /tmp/
+
+  siglaprintisin:
+    image: docker.si.cnr.it/dev/sigla-print:latest
+    command: java -Dserver.port=8082 
+        -Duser.country=IT 
+        -Duser.language=it 
+        -Dfile.encoding=UTF8 
+        -Xmx512m 
+        -Xss512k 
+        -Djava.security.egd=file:/dev/./urandom -jar /opt/sigla-print.war --print.server.url=http://sigla-isin.test.si.cnr.it/ISIN --logging.config=classpath:logback-local.xml --cnr.fs.path=/tmp/stampez/ --spring.profiles.active=common,prod
+    network_mode: bridge
+    environment:
+    - 'SPRING_DATASOURCE_URL=jdbc:oracle:thin:@as4dock.si.cnr.it:1521:xe'
+    - 'SPRING_DATASOURCE_PASSWORD=*****'
+    - 'DIR_IMAGE=/img/ISIN/'
+    - 'LANG=it_IT.UTF-8'
+    - 'LANGUAGE=it_IT:it'
+    - 'LC_ALL=it_IT.UTF-8'
+
+  nginx:
+    image: nginx:1.13-alpine
+    network_mode: bridge
+    links:
+    - siglangisin:siglangisin
+    - siglaswarmisin:siglaswarmisin
+    - siglaprintisin:siglaprintisin
+    labels:
+      SERVICE_NAME: "sigla-isin"
+    read_only: true
+    volumes:
+    - ./conf.d/:/etc/nginx/conf.d/
+    - /var/cache/nginx/
+    - /var/run/
