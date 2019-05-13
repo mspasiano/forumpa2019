@@ -52,8 +52,13 @@ marco.spasiano@color[#e49436](@cnr.it)
 ---?color=#0058a9
 @title[DevOps]
 ## @color[#e49436](DevOps)
-In informatica **DevOps** (dalla contrazione inglese di development, "sviluppo", e operations, qui simile a "messa in produzione" o "deployment") è un metodo di sviluppo del software che punta alla comunicazione, collaborazione e integrazione tra sviluppatori e addetti alle operations della information technology (IT).
+Introducendo una strategia *DevOps* all'interno del CNR è stato possibile implementare nuove funzionalità e applicazioni molto più rapidamente rispetto alle modalità di sviluppo tradizionali, senza contare il fatto che gli stessi sviluppatori, lavorando in prima linea sulla programmazione, sono stati stimolati a scrivere codici di qualità superiore.Un'altra caratteristica fondamentale di un sistema di sviluppo *DevOps* è stata l’integrazione continua (CI) e l’erogazione continua e/o la distribuzione continua (CD). CI significa che nel processo di sviluppo i test su una porzione di codice sono continui e automatici, mentre CD significa che il processo di messa in produzione del codice validato dopo il dovuto collaudo diventa automatica. È così che abbiamo accellerato i tempi di rilascio.
 
 ---?color=#0058a9
+@title[DevOps]
+## @color[#e49436](DevOps)
+In passato, ad esempio, mettevamo in produzione il nuovo codice ad orari prestabiliti. Ma la velocità delle nuove richieste ha reso questo modello per cicli di rilascio piuttosto obsoleto e in antitesi al *DevOps* che, invece, punta proprio ad automatizzare il ciclo di rilascio per renderlo il più possibile immediato.
+
++++?color=#0058a9
 @title[DevOps]
 ![](assets/img/devops-app.jpg)
