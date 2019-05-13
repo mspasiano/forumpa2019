@@ -17,7 +17,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **SIGLA**	@fa[arrow-right] *2005*
 - **Gestione Accessi** @fa[arrow-right] *2008*
 - **SIPER** @fa[arrow-right] *2008*
-- **Online Interactive helpDesk** @fa[arrow-right] *2008*
+- **Online Interactive heLpdesk** @fa[arrow-right] *2008*
 @ulend
 
 ---?color=#0058a9
@@ -26,36 +26,22 @@ marco.spasiano@color[#e49436](@cnr.it)
 <br>
 @ul
 - **SIGLA**	@fa[arrow-right] *2019*
-- **Online Interactive helpDesk** @fa[arrow-right] *2019*
+- **Online Interactive heLpdesk** @fa[arrow-right] *2019*
 - **Selezioni on-line** @fa[arrow-right] *2019*
 - **Elenco OIV** @fa[arrow-right] *2019*
 @ulend
 
----?color=#0058a9
-@title[Community developers italia]
-@snap[north-west span-25]
-![](assets/img/sigla-cnr.png)
-@snapend
++++?color=#0058a9
+@title[Community developers italia - SIGLA]
+## @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
 
-@snap[north span-25]
-![](assets/img/sigla-isin.png)
-@snapend
++++?color=#0058a9
+@title[Community developers italia - Selezioni on-line]
+## @color[#e49436](Selezioni on-line)
 
-@snap[north-east span-25]
-![](assets/img/sigla-iss.png)
-@snapend
-
-@snap[west span-25]
-**Consiglio Nazionale delle Ricerche**
-@snapend
-
-@snap[span-25]
-**Ispettorato per la sicurezza nucleare e la radioprotezione**
-@snapend
-
-@snap[east span-25]
-**Istituto Superiore di Sanità**
-@snapend
++++?color=#0058a9
+@title[Community developers italia - Elenco OIV]
+## @color[#e49436](Elenco OIV)
 
 ---?color=#0058a9
 @title[DevOps]
