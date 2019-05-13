@@ -33,11 +33,11 @@ marco.spasiano@color[#e49436](@cnr.it)
 ---?color=#0058a9
 @title[Community developers italia - SIGLA]
 ### @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
-Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*)  e in fase di estensione per un riuso all'@color[#e49436](*ISS*), tra i vari mdouli che compongono
-il sistema .....  
+Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*)  e in fase di estensione per un riuso all'@color[#e49436](*ISS*), tra i vari mdouli che compongono il sistema alcuni faranno parte separatamente della community  
 @ul[]
 - **Integrazione SIOPE+**
 - **Integrazione SDI**
+- **Integrazione Object Storage @color[#e49436](CMIS,AZURE,S3)**
 @ulend
 
 +++?image=assets/img/sigla-architettura-aws.png
