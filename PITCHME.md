@@ -81,4 +81,7 @@ Con i Container *Docker* poi è stato possibile creare ambienti per la build e i
 
 ---?color=#0058a9
 @title[Conclusion]
-##Unisciti alla community developers italia!
+##THANK YOU!
+@snap[south doclink span-90]
+Unisciti alla [community developers italia](https://developers.italia.it/).
+@snapend
