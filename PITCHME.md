@@ -33,7 +33,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 
 ---?color=#0058a9
 @title[Community developers italia - SIGLA]
-@size[1.5em] @color[#e49436] (Sistema Informativo per la Gestione delle Linee di Attività)
+### @color[#e49436] (Sistema Informativo per la Gestione delle Linee di Attività)
 
 @ul[](false)
 - Query is a read-only operation
@@ -44,6 +44,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 @ulend
 
 +++?image=assets/img/sigla-architettura-aws.png
+@title[SIGLA - architettura]
 
 ---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
