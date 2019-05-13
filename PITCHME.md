@@ -34,7 +34,7 @@ Nel corso di quest'anno entreranno a far parte della community
 ---?color=#0058a9
 @title[Community developers italia - SIGLA]
 ### @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
-Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*)  e in fase di estensione per un riuso all'@color[#e49436](*ISS*), tra i vari mdouli che compongono il sistema alcuni faranno parte separatamente della community  
+@css[tip](Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*)  e in fase di estensione per un riuso all'@color[#e49436](*ISS*), tra i vari moduli che compongono il sistema alcuni faranno parte separatamente della community)
 @ul[]
 - **Integrazione SIOPE+**
 - **Integrazione SDI**
@@ -47,7 +47,7 @@ Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*) 
 ---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
 ## @color[#e49436](Selezioni on-line)
-Sistema di presentazione delle candidature online per il reclutamento del personale dipendente e degli altri rapporti di lavoro e formazione del Consiglio Nazionale delle Ricerche.
+@css[tip](Sistema di presentazione delle candidature online per il reclutamento del personale dipendente e degli altri rapporti di lavoro e formazione del Consiglio Nazionale delle Ricerche.)
 
 ---?color=#0058a9
 @title[DevOps]
