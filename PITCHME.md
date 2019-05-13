@@ -44,7 +44,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 @ulend
 
 +++?image=assets/img/sigla-architettura-aws.png
-@title[SIGLA - architettura]
+@title[SIGLA - architettura aws]
 
 ---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
