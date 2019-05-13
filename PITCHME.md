@@ -33,8 +33,12 @@ marco.spasiano@color[#e49436](@cnr.it)
 
 +++?color=#0058a9
 @title[Community developers italia - SIGLA]
-## @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
+
+@snap[north span-90]
 ![](assets/img/sigla-architettura-aws.png)
+@snapend
+
+@color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
 @ul[](false)
 - Query is a read-only operation
 - Mutation is a read-write operation
