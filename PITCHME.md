@@ -20,10 +20,15 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **Online Interactive helpDesk** @fa[arrow-right] *2008*
 @ulend
 
----?color=#0058a9
++++?color=#0058a9
 @title[Community developers italia]
 ## @color[#e49436](Community developers italia)
-
+<br>
+@ul
+- **SIGLA**	@fa[arrow-right] *2019*
+- **Online Interactive helpDesk** @fa[arrow-right] *2019*
+- **Selezioni on-line** @fa[arrow-right] *2019*
+@ulend
 
 ---?color=#0058a9
 @title[DevOps]
