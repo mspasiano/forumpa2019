@@ -49,10 +49,13 @@ marco.spasiano@color[#e49436](@cnr.it)
 ## @color[#e49436](Selezioni on-line)
 @css[tip](Sistema di presentazione delle candidature online per il reclutamento del personale dipendente e degli altri rapporti di lavoro e formazione del Consiglio Nazionale delle Ricerche, é in uso al CNR dal 2012 ed è stato richiesto in riuso dall' @color[#e49436](*Accademia dei Lincei*, *Stazione Zoologica Anton Dohrn*, *Istituto Superiore di Sanità*); inoltre con una customizzazione é in uso al @color[#e49436](*Dipartimento della Funzione Pubblica*) per gestire l'elenco degli Organismi Indipendenti di Valutazione.)
 
++++?image=assets/img/selezioni-online-architettura-aws.png
+@title[Selezioni on-line - architettura aws]
+
 ---?color=#0058a9
 @title[DevOps]
 ## @color[#e49436](DevOps)
-@css[tip](Introducendo una strategia *DevOps* all'interno del CNR è stato possibile implementare nuove funzionalità e applicazioni molto più rapidamente rispetto alle modalità di sviluppo tradizionali, senza contare il fatto che gli stessi sviluppatori, lavorando in prima linea sulla programmazione, sono stati stimolati a scrivere codici di qualità superiore.Un'altra caratteristica fondamentale di un sistema di sviluppo *DevOps* è stata l’integrazione continua (CI) e l’erogazione continua e/o la distribuzione continua (CD). CI significa che nel processo di sviluppo i test su una porzione di codice sono continui e automatici, mentre CD significa che il processo di messa in produzione del codice validato dopo il dovuto collaudo diventa automatica. È così che abbiamo accellerato i tempi di rilascio.)
+@css[tip](Introducendo una strategia *DevOps* all'interno del CNR è stato possibile implementare nuove funzionalità e applicazioni molto più rapidamente rispetto alle modalità di sviluppo tradizionali, senza contare il fatto che gli stessi sviluppatori, lavorando in prima linea sulla programmazione, sono stati stimolati a scrivere codici di qualità superiore.Un'altra caratteristica fondamentale di un sistema di sviluppo *DevOps* è stata l’integrazione continua *CI* e l'erogazione continua e/o la distribuzione continua *CD*. CI significa che nel processo di sviluppo i test su una porzione di codice sono continui e automatici, mentre CD significa che il processo di messa in produzione del codice validato dopo il dovuto collaudo diventa automatica. È così che abbiamo accellerato i tempi di rilascio.)
 
 ---?color=#0058a9
 @title[DevOps]
@@ -66,4 +69,4 @@ In passato, ad esempio, mettevamo in produzione il nuovo codice ad orari prestab
 ---?color=#0058a9
 @title[Docker & DevOps]
 ## @color[#e49436](Docker & DevOps)
-Con i Container *Docker* è stato possibile creare ambienti per la build e il test, nonchè gli ambienti di produzione e gestire in modo semplice i microservizi.
+Con i Container *Docker* poi è stato possibile creare ambienti per la build e il test, nonchè gli ambienti di produzione, e gestire in modo semplice i microservizi.
