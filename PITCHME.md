@@ -23,7 +23,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 ---?color=#0058a9
 @title[Community developers italia]
 ## @color[#e49436](Community developers italia)
-@css[tip](Nel corso di quest'anno entreranno a far parte della community)
+@css[tip](Entreranno a far parte della community...)
 <br>
 @ul
 - **Sistema Informativo per la Gestione delle Linee di Attività - SIGLA**
