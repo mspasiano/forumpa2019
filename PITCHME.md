@@ -31,14 +31,10 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **Elenco OIV** @fa[arrow-right] *2019*
 @ulend
 
-+++?color=#0058a9
+---?color=#0058a9
 @title[Community developers italia - SIGLA]
-
-@snap[north-east graphql-title span-50]
 @size[1.5em](Sistema Informativo per la Gestione delle Linee di Attività)
-@snapend
 
-@snap[east graphql-bullets span-50]
 @ul[](false)
 - Query is a read-only operation
 - Mutation is a read-write operation
@@ -46,17 +42,14 @@ marco.spasiano@color[#e49436](@cnr.it)
 - Schema defines what queries and mutations can be performed
 - Type defines the shape of response data that can be returned
 @ulend
-@snapend
 
-@snap[west graphql-arch span-50]
-![](assets/img/sigla-architettura-aws.png)
-@snapend
++++?color=#0058a9?image=assets/img/sigla-architettura-aws.png
 
-+++?color=#0058a9
+---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
 ## @color[#e49436](Selezioni on-line)
 
-+++?color=#0058a9
+---?color=#0058a9
 @title[Community developers italia - Elenco OIV]
 ## @color[#e49436](Elenco OIV)
 
