@@ -26,8 +26,8 @@ marco.spasiano@color[#e49436](@cnr.it)
 <br>
 @ul
 - **SIGLA**	@fa[arrow-right] *2019*
-        - ***Integrazione SIOPE+***
-        - ***Integrazione SDI***
+        ***Integrazione SIOPE+***
+        ***Integrazione SDI***
 - **Online Interactive heLpdesk** @fa[arrow-right] *2019*
 - **Selezioni on-line** @fa[arrow-right] *2019*
 - **Elenco OIV** @fa[arrow-right] *2019*
