@@ -20,7 +20,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **Online Interactive helpDesk** @fa[arrow-right] *2008*
 @ulend
 
-+++?color=#0058a9
+---?color=#0058a9
 @title[Community developers italia]
 ## @color[#e49436](Community developers italia)
 <br>
@@ -29,6 +29,21 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **Online Interactive helpDesk** @fa[arrow-right] *2019*
 - **Selezioni on-line** @fa[arrow-right] *2019*
 @ulend
+
++++?color=#0058a9
+@title[Community developers italia]
+@snap[north-west span-25]
+![](assets/img/sigla-cnr.png)
+@snapend
+
+@snap[north span-25]
+![](assets/img/sigla-isin.png)
+@snapend
+
+@snap[north-east span-25]
+![](assets/img/sigla-iss.png)
+@snapend
+
 
 ---?color=#0058a9
 @title[DevOps]
