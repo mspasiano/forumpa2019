@@ -34,6 +34,14 @@ marco.spasiano@color[#e49436](@cnr.it)
 +++?color=#0058a9
 @title[Community developers italia - SIGLA]
 ## @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
+![](assets/img/sigla-architettura-aws.png)
+@ul[](false)
+- Query is a read-only operation
+- Mutation is a read-write operation
+- Resolver provides a mapping between a portion of a GraphQL operation and a backend handler
+- Schema defines what queries and mutations can be performed
+- Type defines the shape of response data that can be returned
+@ulend
 
 +++?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
