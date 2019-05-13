@@ -33,7 +33,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 
 ---?color=#0058a9
 @title[Community developers italia - SIGLA]
-@size[1.5em](Sistema Informativo per la Gestione delle Linee di Attività)
+@size[1.5em] @color[#e49436] (Sistema Informativo per la Gestione delle Linee di Attività)
 
 @ul[](false)
 - Query is a read-only operation
