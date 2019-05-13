@@ -28,6 +28,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 - **SIGLA**	@fa[arrow-right] *2019*
 - **Online Interactive helpDesk** @fa[arrow-right] *2019*
 - **Selezioni on-line** @fa[arrow-right] *2019*
+- **Elenco OIV** @fa[arrow-right] *2019*
 @ulend
 
 ---?color=#0058a9
