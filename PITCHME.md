@@ -26,4 +26,4 @@ In informatica **DevOps** (dalla contrazione inglese di development, "sviluppo",
 
 ---?color=#0058a9
 @title[DevOps]
-![](assets/img/devops-process.png)
+![](assets/img/devops-app.jpg)
