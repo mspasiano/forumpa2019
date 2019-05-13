@@ -34,11 +34,11 @@ marco.spasiano@color[#e49436](@cnr.it)
 +++?color=#0058a9
 @title[Community developers italia - SIGLA]
 
-@snap[north span-90]
-![](assets/img/sigla-architettura-aws.png)
+@snap[north-east graphql-title span-50]
+@size[1.5em](Sistema Informativo per la Gestione delle Linee di Attività)
 @snapend
 
-@color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
+@snap[east graphql-bullets span-50]
 @ul[](false)
 - Query is a read-only operation
 - Mutation is a read-write operation
@@ -46,6 +46,11 @@ marco.spasiano@color[#e49436](@cnr.it)
 - Schema defines what queries and mutations can be performed
 - Type defines the shape of response data that can be returned
 @ulend
+@snapend
+
+@snap[west graphql-arch span-50]
+![](assets/img/sigla-architettura-aws.png)
+@snapend
 
 +++?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
