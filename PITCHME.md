@@ -78,3 +78,5 @@ Con i Container *Docker* poi è stato possibile creare ambienti per la build e i
 @[28-40]
 @[60-73]
 @snapend
+
+---?color=#0058a9&title=Unisciti alla community developers italia!
