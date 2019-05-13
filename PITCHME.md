@@ -81,7 +81,7 @@ Con i Container *Docker* poi è stato possibile creare ambienti per la build e i
 
 ---?color=#0058a9
 @title[Conclusion]
-## @color[#e49436](THANK YOU!)
+## @color[#e49436](Domande?)
 #### marco.spasiano@color[#e49436](@cnr.it)
 @snap[south doclink span-90]
 Unisciti alla [community developers italia](https://developers.italia.it/)
