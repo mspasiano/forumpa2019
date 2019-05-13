@@ -47,7 +47,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 ---?color=#0058a9
 @title[Community developers italia - Selezioni on-line]
 ## @color[#e49436](Selezioni on-line)
-@css[tip](Sistema di presentazione delle candidature online per il reclutamento del personale dipendente e degli altri rapporti di lavoro e formazione del Consiglio Nazionale delle Ricerche, il sitema attualmente in uso al CNR è stato richiesto in riuso dall' @color[#e49436](*Accademia dei Lincei*, *Stazione Zoologica Anton Dohrn*, *Istituto Superiore di Sanità*); inoltre con una customizzazione é in uso al @color[#e49436](*Dipartimento della Funzione Pubblica*) per gestire l'elenco degli Organismi Indipendenti di Valutazione.)
+@css[tip](Sistema di presentazione delle candidature online per il reclutamento del personale dipendente e degli altri rapporti di lavoro e formazione del Consiglio Nazionale delle Ricerche, é in uso al CNR dal 2012 ed è stato richiesto in riuso dall' @color[#e49436](*Accademia dei Lincei*, *Stazione Zoologica Anton Dohrn*, *Istituto Superiore di Sanità*); inoltre con una customizzazione é in uso al @color[#e49436](*Dipartimento della Funzione Pubblica*) per gestire l'elenco degli Organismi Indipendenti di Valutazione.)
 
 ---?color=#0058a9
 @title[DevOps]
