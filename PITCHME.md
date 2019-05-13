@@ -72,10 +72,9 @@ In passato, ad esempio, mettevamo in produzione il nuovo codice ad orari prestab
 Con i Container *Docker* poi è stato possibile creare ambienti per la build e il test, nonchè gli ambienti di produzione, e gestire in modo semplice i microservizi.
 
 +++?code=src/docker/sigla.yml&lang=yml&title=Source: SIGLA ISIN Docker Compose File&color=#0058a9
-
 @snap[south span-100 text-08]
-@[1,3-6](Present code found within any repo source file.)
-@[7-19](Without ever leaving your slideshow.)
-@[28-40](Using GitPitch code-presenting with (optional) annotations.)
-@[60-73](Using GitPitch code-presenting with (optional) annotations.)
+@[5-6]
+@[7-19]
+@[28-40]
+@[60-73]
 @snapend
