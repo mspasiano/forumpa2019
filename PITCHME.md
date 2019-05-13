@@ -32,16 +32,16 @@ marco.spasiano@color[#e49436](@cnr.it)
 
 ---?color=#0058a9
 @title[Community developers italia]
-@snap[north-west span-25]
-!(assets/img/sigla-cnr.png)
+@snap[north-west span-50]
+![](assets/img/sigla-cnr.png)
 @snapend
 
-@snap[north span-25]
-!(assets/img/sigla-isin.png)
+@snap[north span-50]
+![](assets/img/sigla-isin.png)
 @snapend
 
-@snap[north-east span-25]
-!(assets/img/sigla-iss.png)
+@snap[north-east span-50]
+![](assets/img/sigla-iss.png)
 @snapend
 
 
