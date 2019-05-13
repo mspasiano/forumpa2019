@@ -14,10 +14,10 @@ marco.spasiano@color[#e49436](@cnr.it)
 ## @color[#e49436](Catalogo del Riuso)
 <br>
 @ul
-- SIGLA	**2005**
-- Gestione Accessi **2008**
-- SIPER **2008**
-- Online interactive helpDesk **2008**
+- **SIGLA**	*2005*
+- **Gestione Accessi** *2008*
+- **SIPER** *2008*
+- **Online interactive helpDesk** *2008*
 @ulend
 
 ---?color=#0058a9
