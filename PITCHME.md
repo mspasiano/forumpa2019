@@ -38,7 +38,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 ![Iamge-Relative](assets/img/java8_logo.png)
 @snapend
 @snap[north span-25 fragment]
-![Iamge-Relative](assets/img/spring-boot.jpeg)
+![Iamge-Relative](assets/img/spring-framework.png)
 @snapend
 @snap[north-east span-25 fragment]
 ![Iamge-Relative](assets/img/swarm_logo_final.png)
