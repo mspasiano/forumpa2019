@@ -83,5 +83,5 @@
     font-variant: small-caps !important;
   }
   .reveal section img {
-    border: none !important;
+    border: 2px solid #fff;
   }
