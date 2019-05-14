@@ -69,7 +69,7 @@ In passato, ad esempio, mettevamo in produzione il nuovo codice ad orari prestab
 ---?color=#0058a9
 @title[Docker & DevOps]
 ## @color[#e49436](Docker & DevOps)
-Con i Container *Docker* poi è stato possibile creare ambienti per la build e il test, nonchè gli ambienti di produzione, e gestire in modo semplice i microservizi.
+Il codice del software non è l'unico elemento archiviato nel repository dei Sorgenti, infatti, vengono memorizzati anche gli script che contengono tutti i dettagli delle configurazioni e le definizioni dei Container *Docker*, con questo sistema è stato possibile creare ambienti per la build e il test, nonchè gli ambienti di produzione, e gestire in modo semplice i microservizi.
 
 +++?code=src/docker/sigla.yml&lang=yml&title=Source: SIGLA ISIN Docker Compose File&color=#0058a9
 @snap[south span-100 text-08]
