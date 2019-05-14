@@ -58,6 +58,10 @@ marco.spasiano@color[#e49436](@cnr.it)
 ![Iamge-Relative](assets/img/angular.png)
 @snapend
 
+@snap[south-east span-25 fragment]
+![Iamge-Relative](assets/img/docker.png)
+@snapend
+
 ---?color=#0058a9
 @title[Community developers italia - SIGLA]
 ### @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
