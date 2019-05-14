@@ -82,4 +82,6 @@
     font-size: 0.6em !important;
     font-variant: small-caps !important;
   }
-  
+  .reveal section img {
+    border: none !important;
+  }
