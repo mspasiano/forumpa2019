@@ -47,15 +47,16 @@ marco.spasiano@color[#e49436](@cnr.it)
 @snap[west span-25 fragment]
 ![Iamge-Relative](assets/img/maven-logo-black-on-white.png)
 @snapend
-@snap[span-25 fragment]
-![Iamge-Relative](assets/img/postgresql.png)
-@snapend
 @snap[east span-25 fragment]
-![Iamge-Relative](assets/img/angular.png)
+![Iamge-Relative](assets/img/postgresql.png)
 @snapend
 
 @snap[south-west span-25 fragment]
 ![Iamge-Relative](assets/img/bootstrap.png)
+@snapend
+
+@snap[south-east span-25 fragment]
+![Iamge-Relative](assets/img/angular.png)
 @snapend
 
 ---?color=#0058a9
