@@ -59,7 +59,7 @@ marco.spasiano@color[#e49436](@cnr.it)
 @snapend
 
 @snap[south span-25]
-##Tecnologie
+Tecnologie
 @snapend
 
 @snap[south-east span-25 fragment]
