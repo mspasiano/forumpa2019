@@ -32,6 +32,28 @@ marco.spasiano@color[#e49436](@cnr.it)
 @ulend
 
 ---?color=#0058a9
+@title[Tecnologie]
+
+@snap[north-west span-25]
+![Iamge-Relative](assets/img/java8_logo.png)
+@snapend
+@snap[north span-25 fragment]
+![Iamge-Relative](assets/img/spring-boot.jpeg)
+@snapend
+@snap[north-east span-25 fragment]
+![Iamge-Relative](assets/img/swarm_logo_final.png)
+@snapend
+@snap[south-west span-25 fragment]
+![Iamge-Relative](assets/img/maven-logo-black-on-white.png)
+@snapend
+@snap[south span-25 fragment]
+![Iamge-Relative](assets/img/postgresql.png)
+@snapend
+@snap[south span-25 fragment]
+![Iamge-Relative](assets/img/angular.png)
+@snapend
+
+---?color=#0058a9
 @title[Community developers italia - SIGLA]
 ### @color[#e49436](Sistema Informativo per la Gestione delle Linee di Attività)
 @css[tip](Sistema contabile in uso al @color[#e49436](*CNR*), all'@color[#e49436](*ISIN*)  e in fase di estensione per un riuso all'@color[#e49436](*ISS*), tra i vari moduli che compongono il sistema alcuni faranno parte separatamente della community)
