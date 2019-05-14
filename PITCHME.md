@@ -58,6 +58,10 @@ marco.spasiano@color[#e49436](@cnr.it)
 ![Iamge-Relative](assets/img/angular.png)
 @snapend
 
+@snap[south span-25]
+##Tecnologie
+@snapend
+
 @snap[south-east span-25 fragment]
 ![Iamge-Relative](assets/img/docker.png)
 @snapend
